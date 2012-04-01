@@ -1,3 +1,4 @@
+//series led blinking p1.0,p1.1,p1.2,p1.3//
 #include<msp430.h>
 void main()
 {
